@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/HristoGanchev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HristoGanchev&layout=compact&theme=vue" />
 </a>
-<br>
-<img src="https://github.com/HristoGanchev/HristoGanchev/blob/main/Gifs/gitsnake.gif" alt="Snake" width="24p">
-<br>
