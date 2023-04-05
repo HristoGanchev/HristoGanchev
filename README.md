@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/HristoGanchev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HristoGanchev&show_icons=true&hide_title=true&count_private=true&theme=vue" />
 </a>
-<!-- <a href="https://github.com/HristoGanchev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HristoGanchev&layout=compact&theme=vue" />
-</a> -->
+<a href="https://github.com/HristoGanchev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HristoGanchev&layout=compact&count_private=true&theme=vue" />
+</a>
