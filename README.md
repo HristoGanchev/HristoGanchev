@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on the Software Design of DTC, DARTS, HTS machines for Botevgrad and Plovdiv. 
 
 
