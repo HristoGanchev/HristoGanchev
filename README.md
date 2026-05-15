@@ -1,18 +1,39 @@
-### Hi there, my name is Hristo👋 I am Software Design Engineer in Sensata Technologies Sofia
+# Hi, I'm Hristo 👋
 
-<!--
-**HristoGanchev/HristoGanchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Senior Software Design Engineer in Mechanization Team in Sofia, Bulgaria. I have expertise in industrial automation, PLC programming, machine software developement, and HMI development. Focused on building scalable and maintainable automation systems using modern software engineering practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
+- 💼 Current Position: Software Design Engineer, PF3
+- 🏭 Industry: Automotive / Industrial Automation / Machine Building
+- 💻 Main Technologies:
+  - **PLC**: TwinCAT, Codesys, Structured Text (ST), Ladder Logic
+  - **Backend**: C#, .NET Framework, ASP.NET Core
+  - **Frontend**: WPF, HMI Development
+  - **Scripting & Automation**: Python
+  - **Industrial Robotics**: Mitsubishi, Epson, UR
+  - **Machine Vision**: Cognex, Halcon
+  - **Motion Control**
+- 🔍 Interested in:
+  - Software architecture
+  - Automation frameworks
+  - AI-assisted development
 
+---
+
+## 📫 Contact
+
+- **Email**: hganchev@sensata.com
+- **GitHub**: https://github.com/HristoGanchev
+
+---
+
+## ⚡ Fun Facts
+
+- Interested in 3D printing and electronics
+- Enjoy building side projects with Raspberry Pi and Arduino
+- Passionate about optimizing engineering workflows
+
+---
